@@ -15,7 +15,7 @@ echo $str1
 ls *.txt > list.txt
 
 ls *.pdf >> list.txt
-``` bash
+``` 
 
 defintion    
 ```bash
