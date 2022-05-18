@@ -3,7 +3,7 @@
 
 # basename   
 
-|usage|
+|- usage|
 |---|
 
 | get filename |
