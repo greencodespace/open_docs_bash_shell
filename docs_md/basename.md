@@ -5,6 +5,8 @@ basename
 ```
 | get filename |
 |---|
+
+```bash
 docs1.txt
 basename docs1.txt  .txt    
 or    
